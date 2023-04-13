@@ -14,14 +14,25 @@ Salida
 Para cada caso de prueba se mostrará el doble de la mediana de los valores dados.
 
 Entrada de ejemplo
+
 11
+
 1 2 6 17 18 22 35 46 109 153 200
+
 5
+
 5 3 1 2 8
+
 4
+
 4 5 9 2
+
 0
+
 Salida de ejemplo
+
 44
+
 6
+
 9
